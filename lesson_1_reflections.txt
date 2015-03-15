@@ -1,0 +1,6 @@
+Viewing a diff between two versions of a file helped me see the bug that was introduced by indicating what had changed between the two versions.
+Having access to previous versions allows me to easily compare versions and see what changes may have caused unwanted functionality.
+Autosave is great for locally saving your work in case there is a catastrophic failure.  Being able to manually control when you commit to source control makes it possible to version control only when you are ready.
+Applications often require changes to multiple files in order for updates to work properly.
+git log and git diff can be used to identify which commit a specific change was made then comparing it to any other commit in the history.
+Using version control would make me more confident about making changes because I know I can revert back to previous versions.
